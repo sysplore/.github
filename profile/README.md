@@ -41,8 +41,8 @@ Both products are coming soon. Billed monthly in USD; annual terms save up to 20
 
 We design, operate, secure and modernize the infrastructure behind business applications.
 
-- **Managed Hosting**: we run and maintain your production applications: updates, backups, monitoring, patching and incident response.
-- **Infrastructure Management**: servers, networks and systems: monitoring, patching, backups and ongoing maintenance.
+- **Managed Hosting**: we run and maintain your production applications, including updates, backups, monitoring, patching and incident response.
+- **Infrastructure Management**: servers, networks and systems, with monitoring, patching, backups and ongoing maintenance.
 - **Security and Compliance**: assess the gaps, implement the technical controls, and prepare the evidence your auditors and customers ask for.
 - **Digital Transformation**: custom software, open-source ERP, workflow automation and integrations that connect the systems you already use.
 - **AI Engineering**: AI systems that integrate with your applications and data, with control over where models run and what they can access.

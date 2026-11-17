@@ -14,7 +14,7 @@ Professional email, workspace and managed infrastructure: built on open standard
 
 ## Sysplore Mail
 
-Business email on the domain you already own, from **$2.99 per mailbox / month**.
+Business email on the domain you already own, from **$2.99 per account / month**.
 
 - **Open standards, not lock-in.** IMAP, POP3, SMTP, JMAP, CalDAV and CardDAV: Outlook, Apple Mail, Thunderbird or any client your team runs.
 - **You hold the keys.** Encryption at rest with an OpenPGP key or S/MIME certificate you register; the private key stays in your client and never reaches us, so we cannot read what it protects.
